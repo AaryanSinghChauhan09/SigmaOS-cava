@@ -3,7 +3,7 @@ name = "SigmaOS-cava"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "cava component"
+description = "SigmaOS SigmaOS-cava component"
 upstream = []
 
 [contract]
